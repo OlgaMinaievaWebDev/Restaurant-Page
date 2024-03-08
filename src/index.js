@@ -1,3 +1,5 @@
+import pageLoad from "./pageLoad";
 
 
-alert('hello')
+// Load Page
+pageLoad();
